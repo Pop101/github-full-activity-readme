@@ -4,11 +4,11 @@ Updates `README.md` with the recent GitHub activity of a user.
 
 Here's [my](https://github.com/Pop101/Pop101) recent commits:
 <!--START_SECTION:activity-->
-1. ⭐️ Starred [Todo](https://github.com/simoniz0r/todo)
-2. ⭐️ Starred [Markdown-preview-enhanced](https://github.com/shd101wyy/markdown-preview-enhanced)
-3. 📦 Pushed 22 commits to [RPSTournament](https://github.com/NoxNovus/RPSTournament)
-4. 📦 Pushed 2 commits to [Fen-link-site](https://github.com/kynadev/fen-link-site)
-5. 📦 Pushed 27 commits to [Peopledle](https://github.com/Pop101/Peopledle)
+1. 📦 Pushed 34 commits to [SpotifyPredictor](https://github.com/Pop101/SpotifyPredictor)
+2. 🎉 Open sourced [SpotifyPredictor](https://github.com/Pop101/SpotifyPredictor)
+3. ⭐️ Starred [Todo](https://github.com/simoniz0r/todo)
+4. ⭐️ Starred [Markdown-preview-enhanced](https://github.com/shd101wyy/markdown-preview-enhanced)
+5. 📦 Pushed 22 commits to [RPSTournament](https://github.com/NoxNovus/RPSTournament)
 <!--END_SECTION:activity-->
 
 ---
