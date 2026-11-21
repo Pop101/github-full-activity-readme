@@ -1,5 +1,22 @@
 # GitHub Activity in Readme
 
+![github-full-activity-readme project banner](docs/readme-cover.svg)
+
+## Table of contents
+
+- [Why this fork](#why-this-fork)
+- [Technologies](#technologies)
+- [Instructions](#instructions)
+- [Override defaults](#override-defaults)
+
+## Why this fork
+
+Forked from [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme). The fork expands the activity feed used on the Pop101 profile. It adds push and fork events, extends the feed to more public repository events, and filters duplicate entries.
+
+## Technologies
+
+[Node.js](https://nodejs.org/) · [GitHub Actions](https://docs.github.com/actions)
+
 Updates `README.md` with the recent GitHub activity of a user.
 
 Here's [my](https://github.com/Pop101/Pop101) recent commits:
@@ -86,4 +103,3 @@ jobs:
           MAX_LINES: 10
           EVENT_TYPES: 'PushEvent,WatchEvent'
 ```
-
